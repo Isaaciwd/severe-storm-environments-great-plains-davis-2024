@@ -11,6 +11,6 @@ Usage:
 
 Clone the repository, and navigate into the Code directory.
 
-Be sure to have an environment with NumPy, Matplotlib, Xarray and MetPy installed.
+Be sure to have an environment with NumPy, Matplotlib, Xarray, MetPy, netCDF4, and Cartopy installed.
 
-Running the notebooks will recreate the individual figures. 
+Running the notebooks will recreate the individual figures shown in each pane of the composite figures in the paper. 
